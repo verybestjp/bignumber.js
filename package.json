@@ -1,5 +1,5 @@
 {
-  "name": "bignumber.js",
+  "name": "bignumberJS",
   "description": "A library for arbitrary-precision decimal and non-decimal arithmetic",
   "version": "9.0.1",
   "keywords": [
@@ -20,9 +20,7 @@
     "type": "git",
     "url": "https://github.com/MikeMcl/bignumber.js.git"
   },
-  "main": "bignumber",
-  "module": "bignumber.mjs",
-  "browser": "bignumber.js",
+  "main": "bignumber.js",
   "types": "bignumber.d.ts",
   "author": {
     "name": "Michael Mclaughlin",
